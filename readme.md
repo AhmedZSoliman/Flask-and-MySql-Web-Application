@@ -39,10 +39,10 @@ DB_NAME=froshims
 ⚠️ Add .env to .gitignore to keep passwords secure.
 
 6️⃣ Install and Start MySQL
-sudo apt update
-sudo apt install mysql-server
-sudo systemctl start mysql
-sudo systemctl enable mysql
+ sudo apt update
+ sudo apt install mysql-server
+ sudo systemctl start mysql
+ sudo systemctl enable mysql
 
 
 Create MySQL user and grant privileges:
